@@ -30,7 +30,7 @@ Body {
   border-radius: 2px;
 }
 .page {
-  display: none;
+  /* display: none; */
   background-color: #ffffff;
   margin: 0 0 10px 0;
   padding: 24px;
