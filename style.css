@@ -78,12 +78,18 @@ h2 {
   font-weight: bold;
 }
 
+#skills li span {
+  color: rgba(247, 228, 27, 0.84);
+  font-weight: 100;
+}
+
 #top-menu-bar {
   margin: 0;
   text-align: center;
   background-color: #ffd400;
   color: #000;
 }
+
 #top-menu-bar li {
   display: inline-block;
   margin: 0;
